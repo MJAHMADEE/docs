@@ -14,7 +14,6 @@
 # ==============================================================================
 from __future__ import annotations
 """Turn Python docstrings into Markdown for TensorFlow documentation."""
-
 import collections
 import contextlib
 import html
